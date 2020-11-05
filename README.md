@@ -1,0 +1,2 @@
+# Cruise-Ship-Administrator-System
+For a few days, the shipboard experience is a guest’s entire world. Get it right, and many of those guests will be customers for a lifetime. Cruise management may be more complex and challenging than ever, but with the right solutions, this could also be the era of greatest opportunity.  Electronic waivers. Streamlined registration for childcare and other services. Handheld transactions for a cash-free, carefree guest experience.
